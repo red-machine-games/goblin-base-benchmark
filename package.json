@@ -1,0 +1,35 @@
+{
+  "name": "goblin-base-benchmark",
+  "version": "0.1.0",
+  "description": "A benchmark tool based on Node.js and Redis, running plain javascript scenarios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "goblin-base-benchmark": "./bin/goblin-base-benchmark"
+  },
+  "author": "Andrew Medvedev <andrew.medvedev.nh@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "async": "3.1.0",
+    "build-url": "1.3.3",
+    "commander": "3.0.2",
+    "daemonize-process": "2.0.1",
+    "express": "4.17.1",
+    "find-process": "1.4.2",
+    "fs-extra": "8.1.0",
+    "ip": "1.1.5",
+    "jsonfile": "5.0.0",
+    "lockfile": "1.0.4",
+    "lodash": "4.17.15",
+    "object-path": "0.11.4",
+    "redis": "2.8.0",
+    "request": "2.88.0",
+    "shelljs": "0.8.3",
+    "stable": "0.1.8",
+    "traverse": "0.6.6",
+    "url-join": "4.0.1",
+    "ws": "7.1.2"
+  }
+}

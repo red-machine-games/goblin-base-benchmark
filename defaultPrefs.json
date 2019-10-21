@@ -1,0 +1,6 @@
+{
+    "USE_HTTPS": false,
+    "USE_WSS": false,
+    "WRITE_RESULT_ARRAY": false,
+    "WRITE_BENCHMARK_RESULT_ARRAY": false
+}

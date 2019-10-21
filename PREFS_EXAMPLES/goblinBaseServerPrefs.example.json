@@ -1,0 +1,9 @@
+{
+    "GOBLIN_BASE_HMAC_SECRET": "default",
+    "GOBLIN_BASE_PLATFORM_VERSION": "stdl;0.0.0",
+    "URI_PREFIX": "/api/v0",
+    "USE_HTTPS": false,
+    "USE_WSS": false,
+    "WRITE_RESULT_ARRAY": false,
+    "WRITE_BENCHMARK_RESULT_ARRAY": false
+}
