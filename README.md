@@ -2,7 +2,7 @@
 
 # Goblin Base Benchmark
 
-Is a scenario-based clustered benchmark tool for (Goblin Base Server)[https://github.com/red-machine-games/goblin-base-server] instance or any http/websocket server.
+Is a scenario-based clustered benchmark tool for [Goblin Base Server](https://github.com/red-machine-games/goblin-base-server) instance or any http/websocket server.
 
 Use a plain javascript with `async/await` to make benchmarking scenario - result is represented by bunch of json-files with perfomance data.
 
