@@ -186,7 +186,7 @@ function doRun(bulkSize, onHost, onPort, pathToBenchmarkScenario, peersCount, pr
                         .catch(err => cb(err));
                 }
                 function getUnicorn(){
-                    if(!noUnicorn){
+                    if(!noUnicorn && PREFS.GOBLIN_BASE_HMAC_SECRET && PREFS.GOBLIN_BASE_PLATFORM_VERSION){
                         let callbackFn = (err, key) => {
                             if(err){
                                 cb(err);

@@ -13,7 +13,7 @@
 
  */
 
-module.exports = async benchmark => {   // This is a beginning of scenario - one async function on exports with "benchmark" agument
+module.exports = async benchmark => {   // This is a beginning of scenario - one async function on exports with "benchmark" argument
 
     await benchmark.builtins.accountAndProfile();   // Builtin scenario works out account and profiles
     // This is special - the must before any further actions if you're benchmarking Goblin Base instance
@@ -295,5 +295,4 @@ module.exports = async benchmark => {   // This is a beginning of scenario - one
         // Entry point for gameplay benchmark
         await pingMessage();
     })();
-
 };
