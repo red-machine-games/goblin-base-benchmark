@@ -1,6 +1,6 @@
 {
   "name": "goblin-base-benchmark",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A benchmark tool based on Node.js and Redis, running plain javascript scenarios",
   "main": "index.js",
   "scripts": {
