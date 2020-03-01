@@ -42,7 +42,7 @@ Options:
 ## Other links
 
  - Goblin Base Server's repository: https://github.com/red-machine-games/goblin-base-server
- - Documentation: https://gbase.tech/doc
+ - Documentation: https://goblinbase.com/doc
 
 # LICENSE
 
